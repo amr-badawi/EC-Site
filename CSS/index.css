@@ -1,0 +1,119 @@
+a{
+  text-decoration: none;
+}
+body {
+  background-color: white;
+  margin-left: 0;
+  margin-top: 0 ;
+  margin-right: 0;
+}
+
+hr{
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+
+
+.Header{
+  background-color: #0e9aa7 ;
+}
+.Register{
+  border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: #4CAF50;
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+.Register:hover {
+    background-color: #a2de96   ;
+}
+.Login{
+  border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: #0fabbc;
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+.Login:hover {
+    background-color: #00bcd4 ;
+}
+
+
+.NavigationBar{
+  background-color: #f7f7f7 ;
+  height: 100px;
+}
+
+.Category{
+  text-decoration: none ;
+  border: 0;
+    line-height: 2.5;
+    padding: 14px 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: #0fabbc;
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+.Category:hover {
+  background-color: #00bcd4 ;
+}
+.CatLinkSize{
+  font-size: x-Large;
+}
+.SlideImg{
+  margin-left: 30px;
+
+}
+.SlideImg img {
+max-height: 400px;
+}
+.SlideImg button {
+  border : 0 ;
+  background-color: white;
+}
+
+
+.Products{
+  background-color: white;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+
+.Pimg{
+  height: 300px ;
+  width: 300px;
+}
+
+.Footer{
+  background-color: #dddddd ;
+  height: 150px;
+}
